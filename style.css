@@ -182,28 +182,42 @@ nav, nav a{
     margin-left: 30%
 }
 
-#ofertasCards {
+#ofertasCardSection {
 
     display: flex;
     flex-flow: row wrap;
-    justify-content: space-around;
+    justify-content: center;
 }
 
+
+
 .ofertasCard {
+    
     
     border: 2px solid black;
     text-align: center;
     padding: 20px;
     margin: 1em;
-    max-width: 15%;
-    max-height: 15%;
+    max-width: 250px;
+    max-height: 250px;
     
 
 }
 
+.ofertasCard h4{
+    font-size: 1.5em;
+    
+}
+
+.ofertasCard h5{
+    font-size: 1em;
+    
+}
+
+
 .ofertasCard div img {
 
-    max-width:100% ; height:auto
+    max-width:100% ; height:auto;
 
 }
 

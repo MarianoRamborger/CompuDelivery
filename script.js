@@ -25,7 +25,6 @@ AjaxLoad = (target, request) => {
 }
 
 
-
 if (isMobileDevice() == false) {
     console.log("yep")
 
