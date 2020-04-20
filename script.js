@@ -16,7 +16,7 @@ AjaxLoad = (target, request) => {
         if (this.readyState == 4 && this.status== 200) {
 
             target.innerHTML = this.responseText
-            console.log("RRRRR")
+            
         }
     }
 
@@ -26,10 +26,19 @@ AjaxLoad = (target, request) => {
 
 
 if (isMobileDevice() == false) {
-    console.log("yep")
-
     AjaxLoad(caruPlace, "carousel.html  ");
 
+
+
+}
+
+if (isMobileDevice() == true) {
+    let cards = document.querySelectorAll(".ofertasCard")
+
+    for (let i = 0; i < cards.length; i++) {
+        cards[i].classList.add("mobileCard")
+        
+    }
 
 
 }
