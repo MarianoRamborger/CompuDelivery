@@ -25,12 +25,12 @@ AjaxLoad = (target, request) => {
 }
 
 
-if (isMobileDevice() == false) {
-    AjaxLoad(caruPlace, "carousel.html  ");
+// if (isMobileDevice() == false) {
+//     AjaxLoad(caruPlace, "carousel.html  ");
 
 
+// }
 
-}
 
 if (isMobileDevice() == true) {
     let cards = document.querySelectorAll(".ofertasCard")
