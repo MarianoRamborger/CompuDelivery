@@ -26,12 +26,10 @@ AjaxLoad = (target, request) => {
 
 
 
-
-
 if (isMobileDevice() == false) {
     console.log("yep")
 
-    AjaxLoad(caruPlace, "carousel.html");
+    AjaxLoad(caruPlace, "carousel.html  ");
 
 
 
