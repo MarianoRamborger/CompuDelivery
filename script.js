@@ -33,7 +33,7 @@ AjaxLoad = (target, request) => {
 
 
 if (true) {
-    AjaxLoad(caruPlace, "carousel.html  ");
+    AjaxLoad(caruPlace, "carousel.html");
 
 
 }
