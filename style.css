@@ -181,7 +181,7 @@ nav, nav a{
    
 }
 
-#ofertasCardSection {
+#resultsSection {
 
     display: flex;
     flex-flow: row wrap;
@@ -190,35 +190,36 @@ nav, nav a{
 
 
 
-.ofertasCard {
-    
-    
+
+.resultsCard {
+    display: flex;
     border: 2px solid black;
     text-align: center;
     padding: 20px;
     margin: 1em;
     max-width: 250px;
-    max-height: 250px;
-    
-
+    max-height: 350px;
 }
 
-.ofertasCard h4{
+
+
+.resultsCard h4{
     font-size: 1.5em;
     
 }
 
-.ofertasCard h5{
+.resultsCard h5{
     font-size: 1em;
     
 }
 
 
-.ofertasCard div img {
+.resultsCard div img {
 
-    max-width:100% ; height:auto;
+    max-width: 10em ; height:auto;
 
 }
+
 
 .mobileCard {
 

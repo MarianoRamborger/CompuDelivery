@@ -1,0 +1,98 @@
+[   
+{
+    "id":"aaa",
+    "nombre":"notebook",
+    "tipo":"notebooks",
+    "subtipo":"memoria",
+    "marca":"marca",
+    "precio":"aaa",
+    "descripcion":"aaa",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+ {
+    "id":"bbb",
+    "nombre":"computadora",
+    "tipo":"computadoras",
+    "subtipo":"",
+    "marca":"marca",
+    "precio":"bbb",
+    "descripcion":"bbb",
+    "imagen":"https://images-na.ssl-images-amazon.com/images/I/61sdqtqp0PL._AC_SX466_.jpg",
+    "oferta":"true"
+ 
+},
+ {
+    "id":"ccc",
+    "nombre":"notebook2",
+    "tipo":"notebooks",
+    "subtipo":"",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+ {
+    "id":"ddd",
+    "nombre":"Mother",
+    "tipo":"hardware",
+    "subtipo":"mother",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+{
+    "id":"ddd",
+    "nombre":"Mother2",
+    "tipo":"hardware",
+    "subtipo":"mother",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+{
+    "id":"ddd",
+    "nombre":"Procesador",
+    "tipo":"hardware",
+    "subtipo":"procesador",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+{
+    "id":"ddd",
+    "nombre":"Mouse",
+    "tipo":"accesorios",
+    "subtipo":"mouse",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+},
+{
+    "id":"ddd",
+    "nombre":"Mouse2",
+    "tipo":"accesorios",
+    "subtipo":"mouse",
+    "marca":"marca",
+    "precio":"ccc",
+    "descripcion":"ccc",
+    "imagen":"https://http2.mlstatic.com/pc-computadora-monitor-19-amd-a6-7480-4gb-ssd-240gb-p1-D_NQ_NP_637415-MLA31352911897_072019-Q.jpg",
+    "oferta":"true"
+ 
+}
+]

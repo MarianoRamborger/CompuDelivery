@@ -1,0 +1,15 @@
+#productDiv {
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+    
+}
+
+#productImg {
+    margin-top: 0.5em
+}
+
+#productTitle, #productPrice, #productDesc {
+    text-align: center;
+    margin-top:  0.5em;
+}
