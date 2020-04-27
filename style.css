@@ -90,6 +90,10 @@ nav, nav a{
 
 }
 
+#Cont {
+    font-weight: bold;
+}
+
 #lowBanner  { 
     align-items: center !important;
     
