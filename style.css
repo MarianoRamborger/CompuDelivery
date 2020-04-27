@@ -84,9 +84,9 @@ nav, nav a{
 #lowBanner {
     height: 6em;
     display: flex;
-    flex-flow: row wrap;
+    flex-flow: row nowrap;
     background-color: gray;
- 
+    
 
 }
 
@@ -139,10 +139,12 @@ nav, nav a{
 }
 
 #newsLetterDiv  button{
-   margin-left: 0.4em;
+   margin-left: 1em;
    background-color: greenyellow;
-   border-radius: 0.3em;
+   border-radius: 1em;
    font-weight: bold;
+   height: 2em;
+   width: 8em;
  
 }
 
@@ -160,8 +162,35 @@ nav, nav a{
 #iconBar li a{
     color: greenyellow;
     font-size: 1.5em;
-    margin: 0 0.2em
+    margin: 0.2em
+    
 }
+
+
+@media only screen and (max-width: 550px) {
+  
+    #lowBanner h5 {
+        color: greenyellow;
+        font-size: 1em;
+    }
+    
+
+    #newsLetterh6Div {
+    
+        width: 30%
+    }
+
+
+    #newsLetterDiv  button{
+        width: 6em;
+        font-size: 0.8em;
+       
+    }
+
+}
+
+
+
 
 @media only screen and (min-width: 992px) {
   
@@ -171,6 +200,9 @@ nav, nav a{
 
 
 }
+
+
+
 
 
 @media only screen and (min-width: 992px) {
