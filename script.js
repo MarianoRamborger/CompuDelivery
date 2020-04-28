@@ -116,7 +116,7 @@ xhttp.onreadystatechange = function() {
 
 
 
-
+let newsLetterButton = document.getElementById("newsLetterButton")
 
 
 
